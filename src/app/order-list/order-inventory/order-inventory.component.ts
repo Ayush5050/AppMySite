@@ -12,8 +12,8 @@ export class OrderInventoryComponent implements OnInit {
   iCol1: any[];
     iColAll: any[];
     iCols1: any;
-    iColsAll: any[];
-
+    iColsAll: any[]; 
+ 
   constructor() { }
 
   ngOnInit() {
